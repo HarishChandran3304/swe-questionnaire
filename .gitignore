@@ -2,3 +2,5 @@
 /venv
 data.csv
 credentials.json
+secrets.toml
+test.py
