@@ -6,9 +6,9 @@ import streamlit as st
 # Streamlit setup
 credentials = st.secrets["sheets"]["credentials"]
 credentials = dict(credentials)
+gc = gspread.service_account_from_dict(credentials)
 
 # gc = gspread.service_account(filename="credentials.json")
-gc = gspread.service_account(credentials)
 sh = gc.open("SWE Test")
 worksheet = sh.sheet1
 
