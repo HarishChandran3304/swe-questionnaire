@@ -1,0 +1,136 @@
+{
+  "demographics": {
+    "age": "",
+    "gender": "",
+    "birth_order": "",
+    "education": "",
+    "family_type": ""
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "I get anxious when I’m facing difficulty in studying",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 2,
+      "question": "I have disturbed sleep when I have looming deadlines",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 3,
+      "question": "While working on difficult assignments, I’m able to concentrate properly",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 4,
+      "question": "I am able to remember the subjects I learn quite easily",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 5,
+      "question": "When overloaded with academic work, I am able to stay patient",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 6,
+      "question": "During stressful times I feel offended over minor issues",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 7,
+      "question": "When under pressure, I’m able to submit assignments on time",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 8,
+      "question": "Facing a high workload, I seek help from others",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 9,
+      "question": "I feel very stressed about meeting academic expectations",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 10,
+      "question": "When stressed, I turn to my smartphone for distraction",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 11,
+      "question": "I feel very supported by friends and family during tough academic times",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 12,
+      "question": "Academic pressure affects my ability to perform well",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 13,
+      "question": "I find myself procrastinating more under stress",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 14,
+      "question": "I miss meals due to academic stress",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 15,
+      "question": "I exercise less during stressful academic periods",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 16,
+      "question": "During exams, I worry about failing",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 17,
+      "question": "Academic pressure affects my mood",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 18,
+      "question": "When stressed, I experience physical symptoms like a fast heartbeat",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 19,
+      "question": "I feel overwhelmed by my academic workload",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 20,
+      "question": "I am confident in managing stress from academic responsibilities",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 21,
+      "question": "I tend to forget things due to academic pressure",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 22,
+      "question": "I am unable to concentrate on studies due to stress",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 23,
+      "question": "I fall sick during exams",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 24,
+      "question": "I isolate myself from social activities due to stress",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    },
+    {
+      "id": 25,
+      "question": "I tend to play online games to overcome stress",
+      "options": ["Never", "Rarely", "Often", "Always"]
+    }
+  ]
+}
