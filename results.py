@@ -20,7 +20,7 @@ def load_data():
     responses = get_all_rows()[1:]
     for response in responses:
         for i in range(25):
-            match response[i+6]:
+            match response[i+9]:
                 case "Never": results[i]["responses"][0] += 1
                 case "Rarely": results[i]["responses"][1] += 1
                 case "Often": results[i]["responses"][2] += 1
